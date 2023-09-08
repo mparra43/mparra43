@@ -1,6 +1,5 @@
 - 👋 Hi, I’m lorena parra
 - 👀 I’m interested in technology and philosophy, I love to learn
-- 🌱 I’m currently learning JavaScrip
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lorepg310@gmail.com
 
